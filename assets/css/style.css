@@ -2690,9 +2690,9 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     13. Footer Css
 ---------------------------*/
 .footer-bg {
-  background: url(../images/bg/footer-bg.jpg);
-  background-size: cover;
+  background-image: linear-gradient(to right, rgb(43, 116, 235), rgba(105,216,222,0.2));
 }
+
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .footer-top.pb--100, .footer-top-inner.pb--100 {
